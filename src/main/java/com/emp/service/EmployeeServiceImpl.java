@@ -11,7 +11,7 @@ public class EmployeeServiceImpl implements IEmployeeService{
 	//Dummy Employee list
 	
 	List<Employee> list= List.of(new Employee(1234L,"Tony","99784325"),
-			new Employee(1234L,"Tony","99784325"),
+			new Employee(1334L,"Tony","99784325"),
 			new Employee(1564L,"Sam","9978432785"),
 			new Employee(12787L,"Max","99784534325"),
 			new Employee(1239874L,"Peter","99784378625"),
