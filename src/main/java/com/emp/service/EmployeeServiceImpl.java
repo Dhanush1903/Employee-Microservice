@@ -11,13 +11,13 @@ public class EmployeeServiceImpl implements IEmployeeService{
 	//Dummy Employee list
 	
 	List<Employee> list= List.of(new Employee(1234L,"Tony","99784325"),
-			new Employee(1334L,"Tony","99784325"),
-			new Employee(1564L,"Sam","9978432785"),
-			new Employee(12787L,"Max","99784534325"),
-			new Employee(1239874L,"Peter","99784378625"),
-			new Employee(1234234L,"Will","99756784325"),
-			new Employee(127734L,"Bruce","909884325"),
-			new Employee(6578L,"Sofia","99786784325"));
+			new Employee(1235L,"Tony","99784325"),
+			new Employee(1236L,"Sam","9978432785"),
+			new Employee(1237L,"Max","99784534325"),
+			new Employee(1238L,"Peter","99784378625"),
+			new Employee(1239L,"Will","99756784325"),
+			new Employee(1230L,"Bruce","909884325"),
+			new Employee(1231L,"Sofia","99786784325"));
 	
 	
 			
